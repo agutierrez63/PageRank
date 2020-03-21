@@ -49,7 +49,7 @@ copy and pasting. Below I will show you how to run the program.
 
 ### Example
 ```bash
-python3 pageranke.py <url>
+python3 pagerank.py <url>
 ```
 
 Once you run it, you should be able to get a page score for the
